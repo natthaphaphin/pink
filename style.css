@@ -1,0 +1,28 @@
+a {
+    text-decoration: none;
+}
+
+.head {
+    width: 100%;
+    border-bottom: 2px solid #dfe9f5;
+    padding: 6px;
+    background-color: darkred;
+}
+
+.r {
+    float: right;
+}
+
+.f {
+    background-color: crimson;
+    padding: 10px;
+}
+.m{
+    background-color: red;
+}
+.h{
+     width: 100%;
+    border-bottom: 2px solid #e7533f;
+    padding: 6px;
+    background-color: darkred;
+}
